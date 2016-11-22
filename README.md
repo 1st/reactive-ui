@@ -15,6 +15,11 @@ Developer need to describe design once, and based on screen size UI will be rend
 And even if we need to transform sidebar into tabs or dropdown - we can control this separately for mobile and desktop.
 Otherwise it will work as designed by default.
 
+## Our priorities
+
+- **Ensure bug-free components.** It means that we carefully test each component before release. But if you found that Button looks strange in a List, then open a bug and we will fix it as soon as possible.
+- **Design each component to provide the best UX.** Component should feels like native or at least very intuitive on each device - mobile, tablet and desktop.
+
 ## Documentation
 
 Read [docs/](docs/) about the Reactive-UI.
