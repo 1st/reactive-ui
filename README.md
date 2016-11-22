@@ -12,3 +12,7 @@ It allows to make UI better optimized for mobile and desktop, because we create 
 Thanks to ReactJS it's possible to create complex logic behind simple interface of any Component.
 Developer need to describe design once, and based on screen size UI will be rendered differently.
 And if we need to transform sidebar into tabs or dropdown - we can control this separately for mobile and desktop.
+
+## Documentation
+
+Read [docs/](docs/) about the Reactive-UI.
