@@ -17,8 +17,8 @@ Otherwise it will work as designed by default.
 
 ## Our priorities
 
-- **Ensure bug-free components.** It means that we carefully test each component before release. But if you found that Button looks strange in a List, then open a bug and we will fix it as soon as possible.
-- **Design each component to provide the best UX.** Component should feels like native or at least very intuitive on each device - mobile, tablet and desktop.
+- 1) **Ensure bug-free components.** It means that we carefully test each component before release. But if you found that Button looks strange in a List, then open a bug and we will fix it as soon as possible.
+- 2) **Design each component to provide the best UX.** Component should feels like native or at least very intuitive on each device - mobile, tablet and desktop.
 
 ## Documentation
 
