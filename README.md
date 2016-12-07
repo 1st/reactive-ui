@@ -22,8 +22,8 @@ Otherwise it will work as designed by default.
 
 ## Documentation
 
-Read [docs/](docs/) about the Reactive-UI.
+Read [docs](docs/) about the Reactive-UI.
 
 ## Status of development
 
-See [version 1 status](../../projects/1)
+See [version 1 status](../../projects/1).
